@@ -1,2 +1,4 @@
-# dosc
-han's dosc
+npm run dev
+# or
+yarn dev
+```
